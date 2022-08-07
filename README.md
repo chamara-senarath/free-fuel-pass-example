@@ -1,4 +1,6 @@
-# fuel-app
+# free-fuel-app
+This is an example application designed to demonstrate a medium article
+
 
 ## Project setup
 ```
