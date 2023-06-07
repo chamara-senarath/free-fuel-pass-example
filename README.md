@@ -1,6 +1,5 @@
 # free-fuel-app
-This is an example application designed to demonstrate a medium article
-
+This project showcases a practical implementation based on one of my medium articles. The application serves as an excellent resource for grasping the utilization of Vue 3 features like Composition API, SFC (Single File Components) with `<script setup>`, and SFC with CSS v-bind in a Vue 2.7 project. By exploring this project, developers can gain a deeper understanding of how to leverage these advanced Vue techniques within an existing Vue 2.7 codebase.
 
 ## Project setup
 ```
